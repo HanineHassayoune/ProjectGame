@@ -8,9 +8,9 @@ public class CellBtn : MonoBehaviour
     public GameObject textGO;
     public GameObject tickGO;
     public GameObject wrongGO;
-
     public RtlText myTxt;
     public int selectedNumber;
+    public MyManager man;
 
     public void RightAnswer()
     {
@@ -40,5 +40,10 @@ public class CellBtn : MonoBehaviour
         myTxt.text = myNumber.ToString();
     }
 
+    public void Click_me()
+    {
+        //this --> cellBtn
+        man.CheckAnswer(this);
+    }
 
 }

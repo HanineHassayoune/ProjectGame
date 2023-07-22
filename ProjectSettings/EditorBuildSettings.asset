@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Game_Over_Manager_2.0/Over_Manger_2_Scenes/Dlc_0_StartUpScene[AR].unity
+    guid: ce3525525eb85294aa74bf1036243bf0
+  - enabled: 1
+    path: Assets/Game_Over_Manager_2.0/Over_Manger_2_Scenes/Dlc_1_Map[AR].unity
+    guid: c3fa4ffd99279094e9be232fe483fd70
+  - enabled: 1
+    path: Assets/Game_Over_Manager_2.0/Over_Manger_2_Scenes/Dlc_2_Level[AR] 0.unity
+    guid: 28489db1dedd81b47ac71498706e37a6
+  - enabled: 1
+    path: Assets/Game_Over_Manager_2.0/Over_Manger_2_Scenes/Dlc_2_Level[AR] 1.unity
+    guid: 859095943bb347446a0fddb533231930
+  - enabled: 1
+    path: Assets/Game_Over_Manager_2.0/Over_Manger_2_Scenes/Dlc_2_Level[AR] 2.unity
+    guid: b3b207abdc715ea4495eb94914b65002
+  - enabled: 1
+    path: Assets/Game_Over_Manager_2.0/Over_Manger_2_Scenes/Dlc_3_Infinte_Mode[AR].unity
+    guid: 135a07b31266a244e806ccfef39dcf45
   m_configObjects: {}
